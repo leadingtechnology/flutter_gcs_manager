@@ -1,4 +1,3 @@
-
 class GcsException implements Exception {
   final String message;
   final Exception? originalException;
