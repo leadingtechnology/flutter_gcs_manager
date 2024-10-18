@@ -1,6 +1,6 @@
 name: flutter_gcs_manager
 description: "Flutter package that provides seamless interaction with Google Cloud Storage (GCS)."
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/leadingtechnology/flutter_gcs_manager
 repository: https://github.com/leadingtechnology/flutter_gcs_manager.git
 issue_tracker: https://github.com/leadingtechnology/flutter_gcs_manager/issues
