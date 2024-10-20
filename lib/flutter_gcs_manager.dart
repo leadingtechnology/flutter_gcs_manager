@@ -1,4 +1,4 @@
-library flutter_gcs_manager;
+library;
 
 export 'src/gcs_manager.dart';
 export 'src/gcs_service.dart';
